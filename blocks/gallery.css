@@ -1,0 +1,8 @@
+.gallery {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 1184px;
+    height: 442px;
+    margin: 118px auto 92px;
+}
